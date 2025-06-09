@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="final_project_1100915" type="navigation_1100915.py" name="navigation_node" output="screen" launch-prefix="python3">
+  </node>
+
+</launch>
